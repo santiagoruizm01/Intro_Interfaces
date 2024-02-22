@@ -7,4 +7,4 @@ st.header(" En este espacio comienzo a desarrollar mis aplicaciones para interfa
 st.write(" Fácilmente puedo realizar backend y frontend")
 image = Image.open('Gaming.png')
 
-st.image(image, caption'Interfaces multimodales')
+st.image(image, caption='Interfaces multimodales')
