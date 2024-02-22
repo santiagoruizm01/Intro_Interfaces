@@ -8,3 +8,9 @@ st.write(" Fácilmente puedo realizar backend y frontend")
 image = Image.open('Gaming.jpg')
 
 st.image(image, caption='Interfaces multimodales')
+
+
+texto = st.text_input('Escribe algo', 'Este es mi texto')
+st.write('El texto escrito es?, texto)
+
+
